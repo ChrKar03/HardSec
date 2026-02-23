@@ -36,7 +36,7 @@ For the tool to function correctly, the following directory structure is expecte
 ```text
 .
 ├── HAST.py                 # Main Python script
-├── Images/                 # UI Assets (HardAnal.png, HardAnalIcon.png)
+├── imgs/                 # UI Assets (HardAnal.png, HardAnalIcon.png)
 ├── spectre-attack/         # Spectre v1 repository
 ├── spectrev2-poc/          # Spectre v2 repository
 ├── Meltdown-Attack/        # Meltdown repository
