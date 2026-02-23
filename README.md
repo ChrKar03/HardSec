@@ -38,10 +38,4 @@ For the tool to function correctly, the following directory structure is expecte
 ├── HAST.py                 # Main Python script
 ├── links.txt               # The git repos of the PoC attacks that this project is based on 
 ├── imgs/                   # UI Assets
-├── spectre-attack/         # Spectre v1 repository
-├── spectrev2-poc/          # Spectre v2 repository
-├── Meltdown-Attack/        # Meltdown repository
-├── rowhammer-test/         # Rowhammer repository
-├── ZombieLoad/             # ZombieLoad repository
-├── CacheSC/                # Cache Side-Channel repository
-└── SPOILER/                # SPOILER repository
+└── Attacks.zip/            # The zip folder containing the PoC attacks
