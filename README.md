@@ -1,4 +1,4 @@
-# Hardware Static Analysis Tool (HAST)
+# Hardware Static Analysis Tool (HSAT)
 
 **HAST** is a Python-based graphical utility designed to evaluate a system's vulnerability to various side-channel and hardware-level attacks. Developed by Christos Karagiannis and Emmanouil-Angelos Tsigkas, it provides an automated interface to compile and execute well-known Proof-of-Concept (PoC) exploits and visualize the results.
 
